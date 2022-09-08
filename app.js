@@ -28,5 +28,5 @@ function moveFrog(e) {
     
     squares[currentIndex].classList.add('frog')
 }
-
+ 
 document.addEventListener('keyup', moveFrog)
