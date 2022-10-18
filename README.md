@@ -2,14 +2,22 @@
 
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
-switch
-cases
-addEventListener
-removeEventListener
-setInterval
-clearInterval
-document.querySelector
-arrow functions
+.switch
+---
+.cases
+---
+.addEventListener
+---
+.removeEventListener
+---
+.setInterval
+---
+.clearInterval
+---
+.document.querySelector
+---
+.arrow functions
+---
 
 
 Rules of Frogger
@@ -22,3 +30,5 @@ You will be safe on the road, or '.c2, .c3'
 You will be safe on the logs, or '.l1, .l2, .l3'
 You will move with the logs when on them
 You can pause the game by pressing the same button as you did to start the game
+
+
